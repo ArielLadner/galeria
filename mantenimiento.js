@@ -1,0 +1,1 @@
+location.href = 'https://ArielLadner.github.io/mantenimiento';
