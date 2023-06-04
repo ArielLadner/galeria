@@ -22,3 +22,7 @@
 .grid-item:hover {
   filter: opacity(0.9);
 }
+
+img{
+	object-fit: cover;
+	}
